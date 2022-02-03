@@ -1,7 +1,7 @@
 # Hello!
 
 <p align="center">
-	![](https://github.githubassets.com/images/mona-whisper.gif)
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x30c4&show_icons=true&locale=en&layout=compact"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=0x30c4&label=PROFILE+VIEWS)
