@@ -1,6 +1,10 @@
 # Hello!
-![](https://github.githubassets.com/images/mona-whisper.gif)
 
+<p align="center">
+	![](https://github.githubassets.com/images/mona-whisper.gif)
+</p>
+
+![](https://komarev.com/ghpvc/?username=0x30c4&label=PROFILE+VIEWS)
 
 ### Connect with me:
 
