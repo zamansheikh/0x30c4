@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/0x30c4"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 <p align="center">
-	<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x30c4&show_icons=true&locale=en&layout=compact"/> -->
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x30c4&show_icons=true&locale=en&layout=compact"/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x30c4&theme=gruvbox"/>
 </p>
 
