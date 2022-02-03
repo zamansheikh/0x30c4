@@ -13,5 +13,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x30c4&show_icons=true&locale=en&layout=compact"/>
 
 ### My GitHub Stats
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x30c4&"/>
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x30c4&"/>
+</p>
