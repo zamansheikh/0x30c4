@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/0x30c4"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x30c4&hide=html,css,scss&layout=compact&langs_count=50"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x30c4&hide=html,css,scss&layout=compact&langs_count=50&theme=gruvbox"/>
 </p>
 
 <p align="center">
@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x30c4&"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x30c4&theme=gruvbox"/>
 </p>
