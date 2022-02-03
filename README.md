@@ -16,8 +16,12 @@
 </p>
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x30c4&hide=html,css,scss&layout=compact&langs_count=50&theme=gruvbox"/>
-	<br>
+</p>
+
+<p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x30c4&theme=gruvbox"/>
-	<br>
+</p>
+
+<p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x30c4&theme=gruvbox"/>
 </p>
