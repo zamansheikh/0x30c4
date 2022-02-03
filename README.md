@@ -10,6 +10,9 @@
 
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x30c4&show_icons=true&locale=en&layout=compact"/>
+</p>
+
+<p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x30c4&theme=gruvbox"/>
 </p>
 
